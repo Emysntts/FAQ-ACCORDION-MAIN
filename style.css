@@ -63,7 +63,7 @@ p{
     display: flex;
     flex-direction: inline-block;
     justify-content: space-between;
-    font-family: 'WorkSans-SemiBold';
+    font-family: 'WorkSans-SemiBold', 'WorkSans-Bold';
     color: hsl(292, 42%, 14%);
     margin-top: 10px;
 }
