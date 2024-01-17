@@ -68,14 +68,15 @@ p{
     margin-top: 10px;
 }
 #btnMostrarConteudo, #btnMostrarConteudo2, #btnMostrarConteudo3, #btnMostrarConteudo4 {
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     width: 40px;
+    position: relative;
+    bottom: 10px;
 }
 
 .respost1, .respost2, .respost3, .respost4 {
     display: none;
     color: hsl(292, 16%, 49%);
     font-family: 'WorkSans-Regular';
-
 }
 
