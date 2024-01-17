@@ -1,0 +1,25 @@
+
+
+  @font-face {
+    font-family: 'WorkSans-Bold';
+    src: url('./assets/fonts/static/WorkSans-Bold.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  
+  }
+
+  @font-face {
+    font-family: 'WorkSans-Regular';
+    src: url('./assets/fonts/static/WorkSans-Regular.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  
+  }
+
+  @font-face {
+    font-family: 'WorkSans-SemiBold';
+    src: url('/assets/fonts/static/WorkSans-SemiBold.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  
+  }

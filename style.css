@@ -1,0 +1,81 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    color: hsl(292, 42%, 14%);
+    position: relative;
+    top: 50px;
+    font-family: 'WorkSans-Bold';
+
+} 
+.attribution a { color: hsl(292, 16%, 49%);
+    } 
+
+body{
+    margin: 0 auto;
+}
+#background{
+    width: 100%;
+}
+
+.conteiner{
+    background-color:white;
+    width: 500px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px hsl(300, 2%, 20%);
+}
+
+
+
+main{
+    position: relative;
+    z-index: 1;
+    bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.FAQs{
+display: flex;
+flex-direction: inline-block;
+color: hsl(292, 42%, 14%);
+font-family: 'WorkSans-Bold';
+font-size: 25px;
+height: 100px;
+text-align: center;
+align-items: center;
+}
+
+#star{
+    margin-right:10px;
+    width: 40px;
+}
+
+
+p{
+    width: 100%;
+    font-size: 16px;
+}
+
+.bloco1, .bloco2, .bloco3, .bloco4{
+    display: flex;
+    flex-direction: inline-block;
+    justify-content: space-between;
+    font-family: 'WorkSans-SemiBold';
+    color: hsl(292, 42%, 14%);
+    margin-top: 10px;
+}
+#btnMostrarConteudo, #btnMostrarConteudo2, #btnMostrarConteudo3, #btnMostrarConteudo4 {
+    margin-bottom: 8px;
+    width: 40px;
+}
+
+.respost1, .respost2, .respost3, .respost4 {
+    display: none;
+    color: hsl(292, 16%, 49%);
+    font-family: 'WorkSans-Regular';
+
+}
+
