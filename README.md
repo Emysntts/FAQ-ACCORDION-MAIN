@@ -21,6 +21,6 @@ Neste projeto, FAQ accordion, construi um componente de interface do usuário qu
 
 ## Versão para mobile 📱
 <p align="center">
-  <img alt="Projeto FAQ" src="./design/mobile-design.jpg>
+  <img alt="Projeto FAQ" src="./design/mobile-design.jpg">
 </p>
 
