@@ -1,0 +1,34 @@
+
+@media (max-width: 767px) {
+    .conteiner {
+        width: 400px;
+        padding: 15px;
+    }
+    #background{
+        width: 100%;
+    }
+    .FAQs {
+        font-size: 20px;
+        height: auto;
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .bloco1, .bloco2, .bloco3, .bloco4 {
+        flex-direction: row;
+    }
+    main {
+        bottom: 50px; 
+    
+    }
+    
+    .attribution {
+        top: 30px; 
+    }
+    
+    .respost1, .respost2, .respost3, .respost4 {
+        margin-top: 10px; 
+    }
+    
+}
